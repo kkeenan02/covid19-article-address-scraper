@@ -1,0 +1,6 @@
+*.csv
+venv
+*.pkl
+.ipynb_*
+.vscode
+.Rproj.user
